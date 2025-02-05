@@ -1,0 +1,10 @@
+A,Operation (Add/ Delete),product_name,category,Price,shortlived,shelf_life
+21,Add,Apple,Fruits,120,yes,7
+22,Add,Banana,Fruits,80,yes,7
+23,Add,Spinach,Vegetables,50,yes,7
+4,Delete,Onion,Vegetables,100,no,15
+25,Add,Lemon,Vegetables,50,no,45
+26,Add,Strawberry,Tooth Brush,30,no,150
+27,Add,Blueberry,Dairy Products,55,yes,7
+28,Add,Avocado,Dairy Products,40,no,10
+9,Delete,Grapes,Fruits,40.8,yes,7

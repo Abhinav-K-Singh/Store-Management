@@ -1,0 +1,12 @@
+product_id,Operation,product_name,category,Price,shortlived,shelf_life
+31,Add,Raddish,Vegetables,110.8,No,7
+32,Add,Bitterguard,Vegetables,180.6,No,15
+28,Delete,Avocado,Dairy Products,40,no,10
+25,Delete,Lemon,Vegetables,50,no,45
+33,Add,Beetroot,Vegetables,130.2,No,10
+34,Add,Papaya,Fruits,200.4,Yes,5
+35,Add,Blueberries,Fruits,220.1,No,7
+36,Add,Raspberries,Fruits,240.6,Yes,6
+37,Add,Ginger,Spices,180.9,No,30
+38,Add,Garlic,Spices,80.5,No,90
+39,Add,Cabbage,Vegetables,90,No,7

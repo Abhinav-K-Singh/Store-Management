@@ -1,0 +1,13 @@
+product_id,Operation,product_name,category,Price,shortlived,shelf_life
+41,Add,Cheddar Cheese,Dairy Products,150.3,No,30
+42,Add,Milk,Dairy Products,50.8,No,7
+43,Add,Butter,Dairy Products,120.5,No,14
+35,Delete,Blueberries,Fruits,220.1,No,7
+36,Delete,Raspberries,Fruits,240.6,Yes,6
+44,Add,Yogurt,Dairy Products,40.2,No,10
+45,Add,Cream Cheese,Dairy Products,170.9,No,20
+46,Add,Chocolates,Cookies,90.5,No,45
+47,Add,Oatmeal Cookies,Cookies,70.25,No,30
+48,Add,Peanut Butter Cookies,Cookies,60.75,No,25
+49,Add,Carrot,Vegetables,130,No,7
+50,Add,Broccoli,Vegetables,150.5,No,10

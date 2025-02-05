@@ -1,0 +1,8 @@
+cust_id,Operation ,cust_name,cust_contact,cust_location,DOB
+21,Add,Ravi,9123456789,Chennai,01-05-1990
+22,Add,Sakthi,9234567890,Bangalore,12-08-1987
+23,Add,Vidhya,9345678901,Kochi,23-11-1992
+24,Add,Karthik,9456789012,Trivandrum,19-03-1985
+5,Delete,Dhaunsh,3344556677,Kochi,04-08-1991
+6,Delete,Aishwarya,4455667788,Chennai,01-01-1992
+25,Add,Nisha,9789012345,Chennai,15-06-1990

@@ -1,0 +1,13 @@
+cust_id,Operation,cust_name,cust_contact,cust_location,DOB
+51,Add,Ravi,1234567892,Kochi,15-03-1993
+52,Add,Priya,2345678903,Chennai,12-09-1994
+53,Add,Rohini,3456789014,Bangalore,22-11-1990
+54,Add,Surya,4567890125,Kolkata,10-04-1992
+47,Delete,Ritika,7890123457,Kolkata,03-05-1991
+48,Delete,Harish,8901234568,Chennai,21-11-1992
+55,Add,Ashok,5678901236,Mumbai,30-06-1994
+56,Add,Ananya,6789012347,Noida,05-07-1991
+57,Add,Haritha,7890123458,Chennai,17-12-1993
+58,Add,Vikram,8901234569,Trivandrum,21-01-1992
+59,Add,Shivani,9012345670,Bangalore,28-03-1995
+60,Add,Manju,1234567815,Kochi,06-07-1994

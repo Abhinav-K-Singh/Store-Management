@@ -1,0 +1,13 @@
+product_id,Operation,product_name,category,Price,shortlived,shelf_life
+51,Add,Apples,Fruits,90.1,No,14
+52,Add,Bananas,Fruits,50.2,No,10
+53,Add,Oranges,Fruits,110.75,No,21
+54,Add,Grapes,Fruits,180.3,No,10
+48,Delete,Peanut Butter Cookies,Cookies,60.75,No,25
+49,Delete,Carrot,Vegetables,130,No,7
+55,Add,Strawberries,Fruits,130.9,Yes,5
+56,Add,Whole Milk,Dairy Products,60,No,10
+57,Add,Skim Milk,Dairy Products,55.5,No,7
+58,Add,Sour Cream,Dairy Products,80,No,20
+59,Add,Ice Cream,Dairy Products,120.9,No,60
+60,Add,Chocolate Chip Cookies,Cookies,65.4,No,30
